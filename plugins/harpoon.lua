@@ -11,5 +11,6 @@ return {
     vim.keymap.set("n", "<C-t>", function() ui.nav_file(2) end)
     vim.keymap.set("n", "<C-n>", function() ui.nav_file(3) end)
     vim.keymap.set("n", "<C-j>", function() ui.nav_file(4) end)
+    vim.cmd([[cnoreabbrev W SudaWrite]])
   end
 }
