@@ -27,7 +27,7 @@ You can also just clone this repository directly if you do not want to track you
 #### Clone the repository
 
 ```shell
-git clone https://github.com/n-tropy247/astronvim_config ~/.config/nvim/lua/user
+git clone https://github.com/n-tropy247/astronvim_config ~/.config/nvim/lua/
 ```
 
 #### Start Neovim
